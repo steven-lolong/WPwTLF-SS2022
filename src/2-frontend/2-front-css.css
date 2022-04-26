@@ -1,0 +1,39 @@
+h1{
+  color : red;
+}
+
+.fontSize{
+  color : brown;
+  font-size : smaller;
+}
+
+.mainBox {
+  border: 5px solid black;
+}
+
+.nestedBox {
+  padding: 10px;
+  width: calc(50% - 100px);
+  background-color: green;
+  color: white;
+}
+
+.rotateBox {
+  margin: 30px;
+  width: 100px;
+  height: 100px;
+  background-color: rebeccapurple;
+  transform: rotate(0.8turn);
+}
+
+
+body {
+  background-color: white;
+}
+
+/* Responsive bg-color */
+@media (min-width: 100em) {
+  body {
+    background-color: blue;
+  }
+}

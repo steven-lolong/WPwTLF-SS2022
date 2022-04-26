@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Web form elements</title>
+</head>
+
+<body>
+  <!-- <form action="handler" method="{post | get}" enctype="multipart/form-data" target="{_self | _blank}">  -->
+  <h2>Form elements</h2>
+  <form action="#" method="post" target="_self">
+    button: <input type="button" value="Label"><br />
+    checkbox: <input type="checkbox" data><br />
+    color: <input type="color"><br />
+    date: <input type="date"><br />
+    datetime-local: <input type="datetime-local"><br />
+    email: <input type="email"><br />
+    upload file: <input type="file"><br />
+    <input type="hidden" value="hidden value">
+    image: <input type="image"><br />
+    month: <input type="month"><br />
+    number: <input type="number"><br />
+    password: <input type="password"><br />
+    radio: <input type="radio" name="gender" value="f">Female <input type="radio" name="gender" value="m">Male<br />
+    range: <input type="range"><br />
+    reset button<input type="reset" value="reset"><br />
+    search <input type="search"><br />
+    submit button:<input type="submit"><br />
+    tel: <input type="tel"><br />
+    text: <input type="text"> (default value)<br />
+    time: <input type="time"><br />
+    url: <input type="url"><br />
+    week: <input type="week"><br />
+    <textarea>Hellow from text area</textarea><br />
+    button tag:
+    <button type="button">Click Me!</button><br />
+
+    <label for="cars">Choose a car:</label>
+    <select name="cars" id="cars">
+      <option value="mc">Mercede</option>
+      <option value="bmw">BMW</option>
+      <option value="audi">Audi</option>
+      <option value="vw">VW</option>
+    </select>
+
+    <br />
+    <label for="browser">Choose your browser from the list:</label>
+    <input list="browsers" name="browser" id="browser">
+    <datalist id="browsers">
+      <option value="Edge">
+      <option value="Firefox">
+      <option value="Chrome">
+      <option value="Safari">
+    </datalist>
+
+    <br />
+    <label for="cars">Choose a car:</label>
+    <select id="cars">
+      <optgroup label="Japan Cars">
+        <option value="ty">Toyota</option>
+        <option value="hn">Honda</option>
+      </optgroup>
+      <optgroup label="German Cars">
+        <option value="mercedes">Mercedes</option>
+        <option value="audi">Audi</option>
+        <option value="bmw">BMW</option>
+      </optgroup>
+    </select>
+  </form>
+
+  <h2>Fieldset</h2>
+  <form action="#">
+    <fieldset>
+      <legend>Profile:</legend>
+      <label for="fname">Surname:</label>
+      <input type="text" id="fname" name="fname"><br><br>
+      <label for="lname">Last name:</label>
+      <input type="text" id="lname" name="lname"><br><br>
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email"><br><br>
+      <label for="birthday">Birthday:</label>
+      <input type="date" id="birthday" name="birthday"><br><br>
+      <input type="submit" value="Submit">
+    </fieldset>
+  </form>
+  <br />
+
+  <h2>Output tag</h2>
+  <form oninput="x.value=parseInt(a.value)+parseInt(b.value)">
+    <input type="range" id="a" value="50">
+    +<input type="number" id="b" value="25">
+    =<output name="x" for="a b"></output>
+  </form>
+
+</body>
+
+</html>

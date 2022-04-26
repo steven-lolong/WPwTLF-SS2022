@@ -1,0 +1,26 @@
+<html>
+
+<head>
+  <!-- External Javascript  -->
+  <script src="2-hello.js"></script>
+</head>
+
+<body>
+  <p style="color: rebeccapurple;">Javascript</p>
+  <p id="pSelector" style="cursor: pointer;">Hello World!</p>
+  <button onclick="notifyMe()">Notify!</button>
+
+  <!-- Inline Javascript -->
+  <script>
+    const pSelect = document.getElementById("pSelector");
+    pSelect.addEventListener('click', clickSelector);
+    function clickSelector() {
+      alert("Hello World!");
+    }
+  </script>
+  <!-- External Javascript  -->
+  <!-- Optional location to put external link for javascript -->
+  <!-- <script src="2-hello.js"></script> -->
+</body>
+
+</html>
