@@ -1,6 +1,6 @@
 <?php 
 session_start();
-$privatePage = "./3-session-private-page";
+$privatePage = "./3-session-private-page.php";
 if(isset($_SESSION['login']) && ($_SESSION['login'] == true)){
   header('Location: ' . $privatePage);
 }
