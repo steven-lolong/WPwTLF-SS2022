@@ -15,7 +15,7 @@ Send your assignment by e-mail to steven.lolong@uni-tuebingen.de
 2nd (15th June)
 - Migrations and Seeding (Database)
 - Eloquent ORM (Getting Started)
-- Authentication
+- Authentication => Laura Schoeneberg
   
 3rd (22nd June)
 - HTTP Testing
