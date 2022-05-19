@@ -13,7 +13,7 @@ Send your assignment by e-mail to steven.lolong@uni-tuebingen.de
 - Pagination (Database)
 
 2nd (15th June)
-- Migrations and Seeding (Database)
+- Migrations and Seeding (Database) => Tobias Awotula
 - Eloquent ORM (Getting Started)
 - Authentication => Laura Schoeneberg
   
