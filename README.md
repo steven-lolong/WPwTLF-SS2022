@@ -15,7 +15,7 @@ Send your assignment by e-mail to steven.lolong@uni-tuebingen.de
 2nd (15th June)
 - Migrations and Seeding (Database) => Tobias Awotula
 - Eloquent ORM (Getting Started)
-- Authentication => Laura Schoeneberg
+- Authentication
   
 3rd (22nd June)
 - HTTP Testing
@@ -26,12 +26,12 @@ Send your assignment by e-mail to steven.lolong@uni-tuebingen.de
 4th (29th June)
 - Compiling Assets
 - Events => Severin Mengers
-- File Storage
+- File Storage => Julius Rau
 
 5th (6th July)
 - Localization
 - Main and Email Verification => Hadeel Adres
-- Notifications
+- Notifications => Jana Kassas (move to 29th June)
 
 6th (13 July)
 - Queues
