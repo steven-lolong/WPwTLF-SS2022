@@ -20,7 +20,7 @@ Send your assignment by e-mail to steven.lolong@uni-tuebingen.de
 3rd (22nd June)
 - HTTP Testing
 - Authorization => Paul Fallscheer-Schlegel
-- Broadcasting 
+- Broadcasting => Julius Albrecht
 - Cache and Rate Limiting
 
 4th (29th June)
