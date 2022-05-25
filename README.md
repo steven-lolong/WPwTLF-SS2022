@@ -18,7 +18,7 @@ Send your assignment by e-mail to steven.lolong@uni-tuebingen.de
 - Authentication => Karin Haslauer
   
 3rd (22nd June)
-- HTTP Testing
+- HTTP Testing => Benedikt Marten
 - Authorization => Paul Fallscheer-Schlegel
 - Broadcasting => Julius Albrecht
 - Cache and Rate Limiting
