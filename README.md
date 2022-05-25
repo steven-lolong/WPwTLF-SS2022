@@ -30,7 +30,7 @@ Send your assignment by e-mail to steven.lolong@uni-tuebingen.de
 
 5th (6th July)
 - Localization
-- Main and Email Verification => Hadeel Adres
+- Mail and Email Verification => Hadeel Adres
 - Notifications => Jana Kassas (move to 29th June)
 
 6th (13 July)
