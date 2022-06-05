@@ -13,25 +13,25 @@ Send your assignment by e-mail to steven.lolong@uni-tuebingen.de
 - Pagination (Database)
 
 2nd (15th June)
-- Migrations and Seeding (Database)
+- Migrations and Seeding (Database) => Tobias Awotula
 - Eloquent ORM (Getting Started)
-- Authentication
+- Authentication => Karin Haslauer
   
 3rd (22nd June)
-- HTTP Testing
+- HTTP Testing => Benedikt Marten
 - Authorization => Paul Fallscheer-Schlegel
-- Broadcasting 
+- Broadcasting => Julius Albrecht
 - Cache and Rate Limiting
 
 4th (29th June)
 - Compiling Assets
 - Events => Severin Mengers
-- File Storage
+- File Storage => Julius Rau
 
 5th (6th July)
 - Localization
-- Main and Email Verification => Hadeel Adres
-- Notifications
+- Mail and Email Verification => Hadeel Adres
+- Notifications => Jana Kassas (move to 29th June)
 
 6th (13 July)
 - Queues
