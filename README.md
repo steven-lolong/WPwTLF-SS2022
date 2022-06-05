@@ -26,7 +26,7 @@ Send your assignment by e-mail to steven.lolong@uni-tuebingen.de
 4th (29th June)
 - Compiling Assets
 - Events => Severin Mengers
-- File Storage => Julius Rau
+- File Storage
 
 5th (6th July)
 - Localization
