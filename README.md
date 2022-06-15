@@ -28,7 +28,6 @@ Send your assignment by e-mail to steven.lolong@uni-tuebingen.de
 5th (6th July)
 - Mail and Email Verification => Hadeel Adres
 - Mocking => Virmarie Maquiling
-- 
 6th (13 July)
 - Encryption, Hashing, and Password Reset => Dominik Toric
 - Browser Tests => Henrike Weinmann
