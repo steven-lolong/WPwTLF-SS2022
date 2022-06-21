@@ -7,6 +7,11 @@ Send your assignment by e-mail to steven.lolong@uni-tuebingen.de
 
 
 ## Presentation 
+
+- The presentation summary is submitted no later than eight days after the presentation.
+- The presenter does not have to compile the summary of the presentation himself but slides and demo files, including descriptions for the demo files.
+
+
 1st (1st June)
 - Artisan console
 - Query Builder (Database)
@@ -19,7 +24,7 @@ Send your assignment by e-mail to steven.lolong@uni-tuebingen.de
 3rd (22nd June)
 - HTTP Testing => Benedikt Marten
 - Authorization => Paul Fallscheer-Schlegel
-- Broadcasting => Julius Albrecht
+- Broadcasting
 
 4th (29th June)
 - Events => Severin Mengers
