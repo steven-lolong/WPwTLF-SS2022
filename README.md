@@ -22,13 +22,12 @@ Send your assignment by e-mail to steven.lolong@uni-tuebingen.de
 - Authentication => Karin Haslauer
   
 3rd (22nd June)
-- HTTP Testing => Benedikt Marten
 - Authorization => Paul Fallscheer-Schlegel
-- Broadcasting
 
 4th (29th June)
 - Events => Severin Mengers
 - Notifications => Jana Kassas
+- HTTP Testing => Benedikt Marten
 
 5th (6th July)
 - Mail and Email Verification => Hadeel Adres
