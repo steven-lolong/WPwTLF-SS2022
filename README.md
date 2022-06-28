@@ -27,11 +27,11 @@ Send your assignment by e-mail to steven.lolong@uni-tuebingen.de
 4th (29th June)
 - Events => Severin Mengers
 - Notifications => Jana Kassas
-- HTTP Testing => Benedikt Marten
 
 5th (6th July)
 - Mail and Email Verification => Hadeel Adres
 - Mocking => Virmarie Maquiling
+- HTTP Testing => Benedikt Marten
 
 6th (13 July)
 - Encryption, Hashing, and Password Reset => Dominik Toric
