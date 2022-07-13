@@ -33,5 +33,4 @@ Send your assignment by e-mail to steven.lolong@uni-tuebingen.de
 - Mocking => Virmarie Maquiling
 
 6th (13 July)
-- Encryption, Hashing, and Password Reset => Dominik Toric
 - Browser Tests => Henrike Weinmann
