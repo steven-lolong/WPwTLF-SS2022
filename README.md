@@ -3,7 +3,7 @@
 ### Summer Semester 2022 
 ### By: Steven Lolong 
 
-Send your assignment by e-mail to steven.lolong@uni-tuebingen.de 
+Send your assignment by e-mail to steven.lolong@uni-tuebingen.de. 
 
 
 ## Presentation 
@@ -11,6 +11,7 @@ Send your assignment by e-mail to steven.lolong@uni-tuebingen.de
 - The presentation summary is submitted no later than eight days after the presentation.
 - The presenter does not have to compile the summary of the presentation himself but slides and demo files, including descriptions for the demo files.
 
+The deadline for a summary of mail and email verification, mocking, and browser tests are 27th July 2022.
 
 1st (1st June)
 - Artisan console
